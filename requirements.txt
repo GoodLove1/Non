@@ -1,0 +1,6 @@
+beautifulsoup4
+flask
+gunicorn
+git+https://github.com/zevtyardt/lk21.git
+pymongo
+pyrogram==2.0.66
